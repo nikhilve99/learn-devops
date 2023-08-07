@@ -35,7 +35,7 @@
 
 The username is required to link commits with your name. It is not the same as your GitHub account username, which you use to login into your GitHub profile. You can set or update your username by using the `git config` command. The new name will automatically reflect in any future commits that you push to GitHub from the command line. If you want to hide your real name, you can use any arbitrary text as your Git username.
 
-```
+```bash
 git config --global user.name "Tara Routray"
 ```
 
